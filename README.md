@@ -1,16 +1,16 @@
-#Heart Disease Classifier
+# Heart Disease Classifier
 A binary classification model that predicts the presence of heart disease in patients using clinical data, built with logistic regression on the UCI Cleveland Heart Disease dataset.
 
-##Overview
+## Overview
 This project explores whether basic clinical measurements — such as age, cholesterol, resting blood pressure, chest pain type, and maximum heart rate — can predict the likelihood of heart disease in a patient. The model outputs a probability of disease presence, which is a common approach in early-stage clinical risk scoring tools.
 
-##Dataset
+## Dataset
 
 Source: UCI Machine Learning Repository — Heart Disease Dataset
 Size: 297 patients (after removing rows with missing values), 13 clinical features
 Target: Binary — presence (1) or absence (0) of heart disease
 
-##Methods
+## Methods
 
 Data cleaning (handling missing values, encoding categorical features)
 Feature scaling with StandardScaler

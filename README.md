@@ -16,8 +16,6 @@ Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989). Heart Disease [
 
 ## Methods
 
-Data cleaning (handling missing values, encoding categorical features)
-
 Feature scaling with StandardScaler
 
 Logistic regression classifier (scikit-learn)

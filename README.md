@@ -9,6 +9,7 @@ This project explores whether basic clinical measurements — such as age, chole
 Source: UCI Machine Learning Repository — Heart Disease Dataset
 Size: 297 patients (after removing rows with missing values), 13 clinical features
 Target: Binary — presence (1) or absence (0) of heart disease
+Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989). Heart Disease [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
 
 ## Methods
 
